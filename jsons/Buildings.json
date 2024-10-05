@@ -5,10 +5,9 @@
 		"uniqueTo": "Eu",
 		"cost": 55,
 		"happiness": 2,
-		"culture": 0,
+		"culture": 1,
 		"science": 0,
 		"maintenance": 1,
-		"isNationalWonder": no,
 		"requiredBuildingInAllCities": "no",
 		"requiredTech": "agriculture"
 	},
