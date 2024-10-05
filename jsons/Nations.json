@@ -12,8 +12,8 @@
 		"introduction": "Aotū, I am Itaú Aku from these valleys ."
 		
 		"neutralHello": "Hello, how can I help you?",
-		"neutralLetsHearIt": ["Go on."],
-		"neutralNo": ["We absolutely refuse."],
+		"neutralLetsHearIt": ["continue."],
+		"neutralNo": ["We absolutely."],
 		"neutralYes": ["Very good.","Of course, yes."],
 
 		"hateHello": "What do you want now?",
