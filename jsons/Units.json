@@ -3,13 +3,13 @@
 		"name": "warrior Aosu",
 		"unitType": "hand to hand ",
 		"uniqueTo": "Eu",
-		"replaces": "Arquerl",
+		"replaces": "Arquer",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
+		"strength": 50,
+		"rangedStrength": 15,
 		"range": 2.5,
 		"cost": 55,
-		"requiredTech": "",
+		"requiredTech": "archery",
 		"requiredResource": "no",
 		"promotions": ["Logistics","Accuracy I"]
 	}
