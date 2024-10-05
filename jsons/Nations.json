@@ -6,11 +6,8 @@
 		"startBias": ["jungle"],
 		"preferredVictoryType": "diplomatic",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
+		"startIntroPart1": "We are the great people of Eu,you are Itaú, the aku of these valleys!",
+		"startIntroPart2": "!!"		"attacked": "A people with a bad leader dares to attack us?",
 		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
