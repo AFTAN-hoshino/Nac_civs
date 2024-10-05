@@ -8,8 +8,8 @@
 		"culture": 0,
 		"science": 0,
 		"maintenance": 1,
-		"isNationalWonder": incorrect,
-		"requiredBuildingInAllCities": "Colosseum",
+		"isNationalWonder": no,
+		"requiredBuildingInAllCities": "no",
 		"requiredTech": "agriculture"
 	},
 	{
