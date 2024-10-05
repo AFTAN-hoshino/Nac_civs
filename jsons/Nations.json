@@ -9,12 +9,12 @@
 		"startIntroPart1": "Oh great Itaú Aku from the great valleys of southern Armenia, who with his diplomatic ability managed to unite the Eu peoples into an honorable nation and I expel the Esca, our great enemies, from the holy city of Cal !",
 		"startIntroPart2": "!Oh Itaú, with your firmness and courage, could you guide Eu again to its great glory !"		"attacked": "A people with a bad leader dares to attack us?",
 		"defeated": "How is it possible that this líder hurt us? Our great god Eu will take care of them .",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"introduction": "Aotū, I am Itaú Aku from these valleys ."
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Hello, how can I help you?",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["We absolutely refuse."],
+		"neutralYes": ["Very good.","Of course, yes."],
 
 		"hateHello": "What do you want now?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
@@ -27,9 +27,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Cal","Shoes","Kumku","Nitne","Etlan","Keta","Eu","Net'shoes", "Net'Aku"
+			   ["Tse","Pona","Gax","Amani","Rayi","Net'um"
 	}
 ]
