@@ -24,8 +24,8 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": 16,16,16
+		"innerColor": 255,200,230
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Càl","Shōes","Kumku","Nitne","Etlan","Keta","Eu","Net'shōes", "Net'Aku"
 			   ["Tse","Pona","Gax","Amani","Rayi","Net'um"
