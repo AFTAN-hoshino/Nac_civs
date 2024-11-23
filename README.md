@@ -1,5 +1,5 @@
-# Unciv-mod-example
+# This mod adds Civs from the imaginary continent of N.A.C.
 
-An example mod for Unciv, that adds one new Civilization.
+We bring you the first installment of Aftan civilization mods .
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+(https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
