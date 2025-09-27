@@ -12,6 +12,15 @@
 		"requiredTech": "agriculture"
 	},
 	{
+		"name": "Atakeros",
+		"uniqueTo": "Eu",
+		"cost": 65,
+		"uniques": ["[+3]% Strength <for [All] units> <when attacking> [in this city]," "Destroyed when the city is captured"],
+		"maintenance": 2,
+		"requiredBuildingInAllCities": "no",
+		"requiredTech": "Bronze Working",
+	},
+	{
 		"name": "Breeders",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Aliens",
